@@ -1,0 +1,29 @@
+# Python
+_pycache_/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+backend/venv/
+backend/.venv/
+
+# Node
+backend/node_modules/
+frontend/node_modules/
+
+# Environment files
+.env
+backend/.env
+frontend/.env
+
+# Build files
+frontend/dist/
+frontend/build/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
